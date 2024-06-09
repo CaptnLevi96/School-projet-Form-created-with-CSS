@@ -1,0 +1,108 @@
+body {
+
+    background-color: rgb(255, 170, 196);
+}
+
+div {
+
+    width: 610px;
+    height: 520px;
+    margin:auto;
+    background-color: rgb(255, 255, 255);
+}
+.p1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100%;
+    padding-top: 20px;
+    border-radius: 15px 15px 0px 0px;
+    font-size: larger;
+
+}
+
+.form {
+    padding-left: 20px;
+}
+
+.Nom {
+    padding-right: 20px;
+    font-size: large;
+    margin-right: 20px;
+}
+
+
+.input1 {
+    background-color: rgb(196, 196, 196);
+    width: 230px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: none;
+}
+
+.Entreprise {
+    font-size: large;
+    margin-right: 5px;
+
+}
+
+.input2 {
+    background-color: rgb(196, 196, 196);
+    width: 470px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: none;
+}
+
+.Email {
+    font-size: large;
+    margin-right: 20px;
+
+}
+
+.Telephone {
+    font-size: large;
+    margin-right: 10px;
+
+}
+
+.input3 {
+    background-color: rgb(196, 196, 196);
+    width: 470px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: none;
+}
+
+
+.input4 {
+    background-color: rgb(196, 196, 196);
+    width: 120px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: none;
+}
+
+.input5 {
+    background-color: rgb(196, 196, 196);
+    width: 335px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: none;
+}
+
+.Question {
+    font-size: large;
+    margin-right: 10px;
+}
+
+.btn {
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    margin-top: 20px;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border: none;
+}
